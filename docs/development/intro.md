@@ -1,5 +1,5 @@
 # Overview
-Currently, there are two formats avialable for defining dashboards: 
+Currently, there are two formats available for defining dashboards: 
 
 ## JSX
 You can define a dashboard using familiar JSX syntax. Following is a complete example of a simple dashboard defined in JSX:
